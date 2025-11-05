@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+saved_checkpoints/
+*.pth
+data/
+datasets/
+.env
+.DS_Store

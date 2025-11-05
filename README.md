@@ -27,6 +27,7 @@ Key Features:
 | `requirements.txt` | Lists Python packages required to run the project |
 | `.gitignore` | Files and folders GitHub should ignore (like large datasets) |
 | `README.md` | Project explanation (this file) |
+| `PyTorch.HTML.zip` | Part 1 development notebook exported as HTML (zipped) |
 
 ---
 
@@ -50,6 +51,7 @@ python predict.py path/to/image checkpoint.pth –top_k 5 –category_names cat_
 - ✅ Classifier trained and validated  
 - ✅ Model tested and accuracy printed  
 - ✅ Checkpoint saved and loaded successfully  
+- ✅ Completed Jupyter Notebook exported as HTML (see `PyTorch.HTML.zip`)
 
 **Part 2 – Command Line Application**
 - ✅ `train.py` trains model, saves checkpoint  
